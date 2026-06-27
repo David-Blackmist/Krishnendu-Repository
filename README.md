@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3340-check-balanced-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
