@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
+| [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
