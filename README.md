@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
