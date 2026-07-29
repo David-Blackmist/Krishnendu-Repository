@@ -2,11 +2,10 @@ class Solution(object):
     def moveZeroes(self, nums):
         if len(nums)==0:
             return nums
-        l=0
-        for i in range(len(nums)):
-            if nums[i]!=0:
-                nums[l],nums[i]=nums[i],nums[l]
-                l=l+1
+        for i in nums:
+            if i==0:
+                nums.remove(i)
+                nums.append(0)
         return nums
         
 
