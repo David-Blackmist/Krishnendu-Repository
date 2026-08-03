@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
