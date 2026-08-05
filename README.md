@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
