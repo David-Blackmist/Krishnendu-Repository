@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1672-richest-customer-wealth) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1929-concatenation-of-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
