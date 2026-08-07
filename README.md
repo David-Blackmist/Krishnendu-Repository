@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3310-remove-methods-from-project) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
