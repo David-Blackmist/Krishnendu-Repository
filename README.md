@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
@@ -293,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
