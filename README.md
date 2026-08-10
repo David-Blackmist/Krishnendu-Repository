@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1920-build-array-from-permutation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
+| [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
