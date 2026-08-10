@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
