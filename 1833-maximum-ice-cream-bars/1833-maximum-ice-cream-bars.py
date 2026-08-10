@@ -2,7 +2,6 @@ class Solution(object):
     def maxIceCream(self, costs, coins):
         costs.sort()
         count=0
-        i=0
         for i in costs:
             if i<=coins:
                 count +=1
