@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
@@ -337,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
