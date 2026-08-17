@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
