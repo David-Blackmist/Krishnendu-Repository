@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
