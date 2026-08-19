@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3340-check-balanced-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2553-separate-the-digits-in-an-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Divide and Conquer
 |  |
 | ------- |
