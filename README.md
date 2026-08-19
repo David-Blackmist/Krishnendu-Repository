@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
