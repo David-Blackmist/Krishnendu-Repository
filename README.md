@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2716-minimize-string-length) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
+| [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
