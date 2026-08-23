@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0896-monotonic-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Math
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2951-find-the-peaks) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
