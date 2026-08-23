@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0219-contains-duplicate-ii) |
